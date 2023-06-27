@@ -15,4 +15,3 @@ To access your flask application open new tab in and paste the url:
 https://{your_url}.pwskills.app:5000/
 ```
 # Diebetes-Deployment-With-BeanStalk
-# Diebetes-Deployment-With-BeanStalk
